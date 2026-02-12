@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# Mac / Windows OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# JSON files with generated data (ako želiš)
+jobs_raw.json
+matched_jobs_*.json
